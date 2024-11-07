@@ -15,6 +15,8 @@ public class CalculadoraEjemplo {
     private double operando1;
     private double operando2;
     private double resultado;
+    
+    // *** ESTE ES EL CAMBIO DEL SEGUNDO COMMIT ***
 
     /**
      * Constructor de la clase CalculadoraEjemplo que inicializa los operandos.
